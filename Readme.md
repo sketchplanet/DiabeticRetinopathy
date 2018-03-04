@@ -1,5 +1,5 @@
 # Diagnse DiabeticRetinopathy with CNN 
-##Training with Cnn and Interprete how cnn making desion
+## Training with Cnn and Interprete how cnn making desion
 
 ### Prerequisites
 ```
@@ -10,11 +10,11 @@
 * ...
 ```
 ## Report
-```
-The jupyter notebook Code Should be straitforward
-For Report and detail info Please see [report_dr](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/report_dr.pdf)
-For Cnn-vis Please see [VisualizeCnn](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/VisualizeCnn.pdf)
-```
+
+* The jupyter notebook Code Should be straitforward
+* For Report and detail info Please see [report_dr](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/report_dr.pdf)
+* For Cnn-vis Please see [VisualizeCnn](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/VisualizeCnn.pdf)
+
 
 ## Acknowledgments
 
