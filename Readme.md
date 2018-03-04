@@ -11,9 +11,8 @@
 ```
 ## Report
 
-* The jupyter notebook Code Should be straitforward
-* For Report and detail info Please see [report_dr](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/report_dr.pdf)
-* For Cnn-vis Please see [VisualizeCnn](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/VisualizeCnn.pdf)
+* For Report and detail ReadMe Please **see** [report_dr](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/report_dr.pdf)
+* For Cnn-vis Please **see** [VisualizeCnn](https://github.com/sketchplanet/DiabeticRetinopathy/blob/master/VisualizeCnn.pdf)
 
 
 ## Acknowledgments
